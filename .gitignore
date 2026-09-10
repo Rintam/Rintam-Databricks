@@ -1,0 +1,7 @@
+.venv/
+.env
+.python-version
+pyproject.toml
+readme.md
+uv.lock
+__pycache__/
